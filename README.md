@@ -1,2 +1,2 @@
 # test-project-page
-A test projevt page
+A test project page
